@@ -71,7 +71,7 @@ Golden yellows and oranges are frequently used to glaze the forehead.
 
 Traveling down the face just below the eyes and above the mouth is an area comprised of capillaries filled with *blood*. All this blood causes the ears, nose, and cheeks to turn a reddish color. A simple thing like glazing cheeks with warm mixes of orange and red can liven a face up, especially in females.
 
-[![Color used to paint cheeks and ears](../../images/paper-53-face-cheek-glaze.jpg)](../../images/paper-53-face-cheek-glaze-lg.jpg)
+![Color used to paint cheeks and ears](../../images/paper-53-face-cheek-glaze-lg.jpg)
 
 ### Chin
 
