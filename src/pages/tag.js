@@ -11,6 +11,15 @@ import style from '../styles/archive.module.css'
 const _ = require('lodash-addons')
 
 const metaImage = site.image
+
+// Sort object alphabetically function
+const propComparator = propName => (a, b) =>
+a[propName].toLowerCase() == b[propName].toLowerCase()
+  ? 0
+  : a[propName].toLowerCase() < b[propName].toLowerCase()
+  ? -1
+  : 1
+
 const TagsPage = ({
   data: {
     allMarkdownRemark: { group },
@@ -33,7 +42,7 @@ const TagsPage = ({
         <h2 className={style.subHeading}>Browse by topic</h2>
         <div className={style.columnList}>
           <ul>
-            {group.map(tag => (
+            {group.sort(propComparator(`fieldValue`)).map(tag => (
               <li key={tag.fieldValue}>
                 <Link to={`/tag/${_.slugify(tag.fieldValue)}/`}>
                   <strong>{tag.fieldValue}</strong>{' '}
