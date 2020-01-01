@@ -38,7 +38,7 @@ module.exports = {
     feedUrl: site.feedUrl,
 
     // Site config
-    copyrights: '&copy; 2004&mdash;2019 Michael Rose.',
+    copyrights: `&copy; 2004&mdash;${new Date().getFullYear()} Michael Rose.`,
     defaultTheme: 'light',
     postsPerPage: 10,
     menuMoreText: 'Menu',
