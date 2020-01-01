@@ -382,7 +382,7 @@ module.exports = {
                 const footerContent = `<p><a href="${site.siteMetadata.siteUrl +
                   edge.node.frontmatter.path}">${
                   edge.node.frontmatter.title
-                }</a> was originally published on ${site.title}.</p>`
+                }</a> was originally published on Made Mistakes.</p>`
 
                 return Object.assign({}, edge.node.frontmatter, {
                   title,
