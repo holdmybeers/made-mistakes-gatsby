@@ -82,7 +82,9 @@ const PostTemplate = ({ data, pageContext }) => {
               {comments && <CommentsList commentsList={comments} />}
               {commentsLocked ? (
                 <div className="custom-block notice">
-                  <div className="custom-block-heading">Comments are closed</div>
+                  <div className="custom-block-heading">
+                    Comments are closed
+                  </div>
                   <div className="custom-block-body">
                     If you have a question concerning the content of this page,
                     please feel free to <Link to="/contact/">contact me</Link>.
@@ -131,12 +133,8 @@ export const pageQuery = graphql`
         tags
         image {
           childImageSharp {
-            fluid(
-              maxWidth: 1100
-              quality: 75
-              traceSVG: { background: "#fff", color: "#111" }
-            ) {
-              ...GatsbyImageSharpFluid_tracedSVG
+            fluid(maxWidth: 1100, quality: 75) {
+              ...GatsbyImageSharpFluid_noBase64
             }
             fixed(width: 1100, quality: 75) {
               src

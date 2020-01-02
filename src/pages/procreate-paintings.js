@@ -81,6 +81,7 @@ class Gallery extends React.Component {
             <Img
               fluid={this.props.data.file.childImageSharp.fluid}
               className={style.cover}
+              backgroundColor="var(--input-background-color)"
             />
           )}
           <div className={style.content}>
@@ -102,7 +103,10 @@ class Gallery extends React.Component {
                 return (
                   <div key={post.id} className={style.gridItem}>
                     <Link to={post.frontmatter.path}>
-                      <Img fadeIn={false} fluid={image.childImageSharp.fluid} />
+                      <Img
+                        fluid={image.childImageSharp.fluid}
+                        backgroundColor="var(--input-background-color)"
+                      />
                     </Link>
                   </div>
                 )
@@ -144,12 +148,8 @@ export const pageQuery = graphql`
     }
     file(relativePath: { eq: "procreate-paintings-feature.jpg" }) {
       childImageSharp {
-        fluid(
-          maxWidth: 1100
-          quality: 75
-          traceSVG: { background: "#fff", color: "#111" }
-        ) {
-          ...GatsbyImageSharpFluid_tracedSVG
+        fluid(maxWidth: 1100, quality: 75) {
+          ...GatsbyImageSharpFluid_noBase64
         }
         fixed(width: 1100, quality: 75) {
           src

@@ -44,6 +44,7 @@ const HomePage = ({ data }) => {
           <Img
             fluid={data.aboutImage.childImageSharp.fluid}
             className={style.cover}
+            backgroundColor="var(--input-background-color)"
           />
         </div>
         <div className={style.content}>
@@ -201,12 +202,8 @@ export const pageQuery = graphql`
             categories
             image {
               childImageSharp {
-                fluid(
-                  maxWidth: 400
-                  quality: 75
-                  traceSVG: { background: "#fff", color: "#111" }
-                ) {
-                  ...GatsbyImageSharpFluid_tracedSVG
+                fluid(maxWidth: 400, quality: 75) {
+                  ...GatsbyImageSharpFluid_noBase64
                 }
               }
             }
@@ -216,13 +213,8 @@ export const pageQuery = graphql`
     }
     aboutImage: file(relativePath: { eq: "michael-rose-glitched.jpg" }) {
       childImageSharp {
-        fluid(
-          maxWidth: 720
-          maxHeight: 480
-          quality: 75
-          traceSVG: { background: "#fff", color: "#111" }
-        ) {
-          ...GatsbyImageSharpFluid_tracedSVG
+        fluid(maxWidth: 720, maxHeight: 480, quality: 75) {
+          ...GatsbyImageSharpFluid_noBase64
         }
       }
     }
