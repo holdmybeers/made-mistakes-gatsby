@@ -317,6 +317,10 @@
   }
 }
 
+.twitter-tweet {
+  padding-bottom: 1rem;
+}
+
 /* Thumbnail Gallery */
 
 .gallery-thumbnails {
