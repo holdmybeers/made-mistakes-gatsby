@@ -242,6 +242,7 @@
   opacity: 0 !important;
   transition: opacity 300ms;
 }
+
 .lazyloaded {
   opacity: 1 !important;
   transition: opacity 300ms;
@@ -357,25 +358,22 @@
 /* 2 column gallery */
 
 .two-column {
-  --col-gap: 1rem;
-  --width: calc(50% - (0.5 * var(--col-gap)));
-
   @media (--medium-up) {
     display: flex;
     flex-wrap: wrap;
 
     &:after {
-      width: var(--width);
+      width: var(--two-col-width);
     }
   }
 
   > * {
     display: block;
-    margin-bottom: var(--col-gap);
+    margin-bottom: var(--two-col-gap);
 
     @media (--medium-up) {
-      margin-right: var(--col-gap);
-      width: var(--width);
+      margin-right: var(--two-col-gap);
+      width: var(--two-col-width);
       height: 100%;
 
       /* Remove margin in last column */
@@ -406,15 +404,12 @@
 /* 3 column gallery */
 
 .three-column {
-  --col-gap: 1rem;
-  --width: calc(33.3333% - (0.75 * var(--col-gap)));
-
   @media (--medium-up) {
     display: flex;
     flex-wrap: wrap;
 
     &:after {
-      width: var(--width);
+      width: var(--three-col-width);
     }
   }
 
@@ -422,11 +417,11 @@
     display: block;
     vertical-align: bottom;
     border-radius: 0 0 var(--border-radius) var(--border-radius);
-    margin-bottom: var(--col-gap);
+    margin-bottom: var(--three-col-gap);
 
     @media (--medium-up) {
-      margin-right: var(--col-gap);
-      width: var(--width);
+      margin-right: var(--three-col-gap);
+      width: var(--three-col-width);
 
       /* Remove margin in last column */
       &:nth-of-type(3n) {

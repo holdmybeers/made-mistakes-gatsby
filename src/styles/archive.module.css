@@ -124,9 +124,6 @@
 }
 
 .gridList {
-  --grid-size: 15rem;
-  --col-gap: 2rem;
-
   @media (--medium-up) {
     display: flex;
     flex-wrap: wrap;
@@ -137,10 +134,10 @@
 
   @supports (display: grid) {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(var(--grid-size), 1fr));
-    grid-column-gap: var(--col-gap);
-    grid-row-gap: var(--col-gap);
-    margin-bottom: var(--col-gap);
+    grid-template-columns: repeat(auto-fit, minmax(var(--grid-list-size), 1fr));
+    grid-column-gap: var(--grid-list-col-gap);
+    grid-row-gap: var(--grid-list-col-gap);
+    margin-bottom: var(--grid-list-col-gap);
 
     @media (--medium-up) {
       margin-left: 0;
@@ -182,9 +179,6 @@
 }
 
 .gridListExpanded {
-  --grid-size: 10rem;
-  --col-gap: 3rem;
-
   @media (--medium-up) {
     display: flex;
     flex-wrap: wrap;
@@ -195,10 +189,10 @@
 
   @supports (display: grid) {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(var(--grid-size), 1fr));
-    grid-column-gap: var(--col-gap);
-    grid-row-gap: var(--col-gap);
-    margin-bottom: var(--col-gap);
+    grid-template-columns: repeat(auto-fit, minmax(var(--grid-list-exp-size), 1fr));
+    grid-column-gap: var(--grid-list-exp-col-gap);
+    grid-row-gap: var(--grid-list-exp-col-gap);
+    margin-bottom: var(--grid-list-exp-col-gap);
 
     @media (--medium-up) {
       margin-left: 0;
@@ -233,9 +227,6 @@
 }
 
 .columnList {
-  --col-gap: 1rem;
-  --width: calc(33.3333% - var(--col-gap));
-
   ul {
     list-style: none;
     margin: 0;
@@ -246,7 +237,7 @@
       flex-wrap: wrap;
 
       &:after {
-        width: var(--width);
+        width: var(--col-list-width);
       }
     }
   }
@@ -256,8 +247,8 @@
     margin-left: 0;
 
     @media (--medium-up) {
-      margin-right: calc(1.5 * var(--col-gap));
-      width: var(--width);
+      margin-right: calc(1.5 * var(--col-list-gap));
+      width: var(--col-list-width);
 
       /* Remove margin in last column */
       &:nth-of-type(3n) {

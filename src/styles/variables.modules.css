@@ -65,6 +65,16 @@
   --border-radius: 0.125rem;
   --global-transition: all 0.4s ease;
   --avatar-size: 30px;
+  --two-col-gap: 1rem;
+  --two-col-width: calc(50% - (0.5 * var(--two-col-gap)));
+  --three-col-gap: 1rem;
+  --three-col-width: calc(33.3333% - (0.75 * var(--three-col-gap)));
+  --grid-list-size: 15rem;
+  --grid-list-col-gap: 2rem;
+  --grid-list-exp-size: 10rem;
+  --grid-list-exp-col-gap: 3rem;
+  --col-list-gap: 1rem;
+  --col-list-width: calc(33.3333% - var(--col-list-gap));
 }
 
 /* Dark mode */
