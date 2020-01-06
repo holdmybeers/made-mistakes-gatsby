@@ -1,9 +1,9 @@
 ---
 title: "iPad portraits with Paper for iOS"
 date: 2012-08-31
+last_modified_at: 2020-01-06T10:30:01-05:00
 path: /notes/paperfaces-ipad-portrait-project/
 excerpt: "An experiment in humanizing the web — drawing a portrait everyday day using an iPad and Paper for iOS."
-last_modified_at: 2017-09-07T15:53:18-04:00
 image: ../../images/paperfaces-project-feature.jpg
 categories: [notes]
 tags: [Paper for iOS, Apple, illustration]
@@ -25,7 +25,7 @@ Unfortunately I am no longer taking volunteers for the project. <s>If you'd like
 
 PaperFaces is the name that I coined for the portraits I was drawing with the Paper by 53 iPad app. Most of the Paper creations share the #MadeWithPaper hashtag, so I thought [PaperFaces](https://twitter.com/search?q=PaperFaces&src=typd) would fit in with that theme and decided to start tagging each portrait with it.
 
-One night, out of sheer boredom, I decided I'd try to recreate <a href="../../images/paperfaces-veganwendy-twitter.jpg" title="iPad drawing of @veganwendy" rel="gallery">my wife's Twitter avatar</a> with Paper by 53. The positive response that resulted from that drawing prompted me to create one of <a href="../../images/paperfaces-mmistakes-twitter.jpg" title="iPad drawing of @mmistakes" rel="gallery">my own avatar</a>, which also went over well with my small group of Twitter and Instagram followers.
+One night, out of sheer boredom, I decided I'd try to recreate [my wife's Twitter avatar](/paperfaces/veganwendy-portrait/) with Paper by 53. The positive response that resulted from that drawing prompted me to create one of [my own avatar](/paperfaces/mmistakes-portrait/), which also went over well with my small group of Twitter and Instagram followers.
 
 Due to the positive comments that I received, I decided to put a call out for more portrait volunteers. Without really considering the implications of my actions, I posted the following:
 

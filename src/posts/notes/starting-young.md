@@ -34,6 +34,6 @@ Everly couldn't have been more different in her approach. Instead of swirling ar
 
 ![Everly's first Paper drawing](../../images/paper-53-everly-draw-1.jpg)
 
-We'll see how things progress as I let them play around with [Paper by 53](http://fiftythree.com/paper/) some more. The big benefit being I don't have to worry about them throwing crayons around since they seem to enjoy smearing their greasy fingers across the screen. I'm hoping Paper will help transition them into crayons once they figure out their fingers and hands have the ability to *create something*.
+We'll see how things progress as I let them play around with [Paper by 53](https://paper.bywetransfer.com/) some more. The big benefit being I don't have to worry about them throwing crayons around since they seem to enjoy smearing their greasy fingers across the screen. I'm hoping Paper will help transition them into crayons once they figure out their fingers and hands have the ability to *create something*.
 
 Wish me luck...

@@ -1,6 +1,7 @@
 ---
 title: "Three years of problems with an iMac G5"
 date: 2008-07-18
+last_modified_at: 2020-01-06T10:00:55-05:00
 path: /articles/display-problems-imac-g5/
 excerpt: "Faulty logic boards, ambient sensors, and displays oh my!"
 image: ../../images/imac-glitch-feature.jpg
@@ -39,7 +40,7 @@ It was the middle of the day so no one was in the store except for a few goons w
 
 Yesterday I woke up for work and went to check my email. Walked into my office and noticed my iMac was pretty loud with the fans were going full blast. "Uh oh… that funny pixelated pattern flashing on my screen doesn't look good either." I didn't panic yet since I thought maybe it was software related and just needed a fresh restart. Force rebooted my machine and the gray Apple logo came up fine.
 
-Then the funny pixels and static showed up again. Tried to run the diagnostic disc that came with Apple Care to see what was wrong, but that wouldn't work either. Everything seemed to be functioning fine except for the display. Made an appointment with a Genius later in the day and hoped that I'd be eligible for the [iMac G5 Power & Video Repair Extension Program](http://docs.info.apple.com/article.html?artnum=302181) since my Apple Care Warranty ran out in February.
+Then the funny pixels and static showed up again. Tried to run the diagnostic disc that came with Apple Care to see what was wrong, but that wouldn't work either. Everything seemed to be functioning fine except for the display. Made an appointment with a Genius later in the day and hoped that I'd be eligible for the [iMac G5 Power & Video Repair Extension Program](https://discussions.apple.com/thread/1830303) since my Apple Care Warranty ran out in February.
 
 Got to the Apple Store early after carrying my iMac through the Galleria Mall for the 3rd time! The Genius Bar was an absolute mess with all these people waiting to have their precious iPhone's and iPod's looked at because they did something stupid and broke them. One Genius in particular seemed extremely knowledgeable. All the other Genius' were asking him questions and for help, so I was pumped when he was going to look at my broken iMac.
 

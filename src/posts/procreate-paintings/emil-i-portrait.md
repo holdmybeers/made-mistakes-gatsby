@@ -3,7 +3,7 @@ title: "Watercolor, not watercolor"
 date: 2016-04-26
 path: /procreate-paintings/emil-i-portrait/
 excerpt: "Portrait of Emil I. digitally painted with Procreate on an iPad."
-last_modified_at: 2017-09-08T10:24:20-04:00
+last_modified_at: 2020-01-06T10:56:36-05:00
 image: ../../images/emil-i-procreate.jpg
 categories: [procreate-paintings]
 tags: [Procreate, portrait, illustration, Sktchy, time lapse]
@@ -17,7 +17,7 @@ Fast forward to last week when bought an Adobe Ink that was on sale for 90% off.
 
 ![Work in progress with the Adonit Ink stylus](../../images/emil-i-procreate-adonit-ink-900.jpg)
 
-Well after drawing with it for a few hours it definitely has some issues. Most of can be traced back to the [iPad Air 2](http://www.adonit.net/blog/archives/2015/05/07/ipad-air-2-performance/), which doesn't exactly support the stylus properly.
+Well after drawing with it for a few hours it definitely has some issues. Most of can be traced back to the [iPad Air 2](https://web.archive.org/web/20161231184219/http://www.adonit.net/blog/archives/2015/05/07/ipad-air-2-performance/), which doesn't exactly support the stylus properly.
 
 There's some serious lag which I can give it a pass on since this thing came out way before the Apple Pencil. That said, if you can get used to the lag it gets the job done.
 

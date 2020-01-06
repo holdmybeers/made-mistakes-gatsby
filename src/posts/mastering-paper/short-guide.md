@@ -3,7 +3,7 @@ title: "Short guide to drawing with Paper for iOS"
 date: 2013-02-13
 path: /mastering-paper/short-guide/
 excerpt: "My simple Paper techniques for drawing faceless portraits and landscapes on an iPad."
-last_modified_at: 2019-09-13T15:01:01-04:00
+last_modified_at: 2020-01-06T11:03:07-05:00
 image: ../../images/madewithpaper-guide-feature.jpg
 categories: [mastering-paper]
 tags: [Paper for iOS, tutorial, Apple]
@@ -20,7 +20,7 @@ How do you draw or sketch on an iPad with **Paper on iOS**? What iPad stylus is 
 ## Tools
 
 -	Obviously you'll need an iPad --- I use a 3rd generation with the nice retina screen.
-- [Paper](http://www.fiftythree.com/paper/) for iOS is my sketching app of choice. It's a free download, but you'll want to buy the additional brushes, pens, and Color Mixer --- my favorites are the pencil and watercolor brush.
+- [Paper](https://paper.bywetransfer.com/) for iOS is my sketching app of choice. It's a free download, but you'll want to buy the additional brushes, pens, and Color Mixer --- my favorites are the pencil and watercolor brush.
 - A stylus is optional, but highly recommended. I use [FiftyThree's Pencil][pencil-stylus] and in the past a [Pogo Connect Smart Pen][1], [LunaTik Alloy Touch Pen][2], and [Just Mobile's AluPen][3]. If you can't afford a decent stylus right now Amazon has [dirt cheap styli for a few dollars][4] that offer more precision than finger painting but not much else.
 
 [pencil-stylus]: /mastering-paper/pencil-53-review/
@@ -86,7 +86,7 @@ It has so many uses, that by default I spend most of my time with it. My absolut
 
 ## Closing thoughts and questions
 
-I hope some of this has been helpful. To better describe and show my process, I've recorded speed paintings done with an iPad 3, Paper by FiftyThree, the Mac OS X application [**Reflector**](http://reflectorapp.com/), and edited with Adobe AfterEffects. 
+I hope some of this has been helpful. To better describe and show my process, I've recorded speed paintings done with an iPad 3, Paper by FiftyThree, the Mac OS X application [**Reflector**](https://www.airsquirrels.com/reflector), and edited with Adobe AfterEffects. 
 
 I've taken the liberty of embedding a video playlist below, demonstrating how I use Paper by FiftyThree to paint portraits. *(ProTip: watch it fullscreen)*. Feel free to comment, like, or [subscribe to my channel](https://www.youtube.com/user/anotherjpeg "Subscribe to Michael Rose's YouTube Channel") if you like what you see.
 

@@ -10,7 +10,7 @@ support: false
 toc: true
 ---
 
-Glad to see improvements in the May 2011 Urban Outfitters catalog. Especially since I took [a few issues with the typography](/articles/typography-urban-outfitters/) and other design choices last month.
+Glad to see improvements in the May 2011 Urban Outfitters catalog. Especially since I took [a few issues with the typography](/notes/typography-urban-outfitters/) and other design choices last month.
 
 ## A step in the right direction
 

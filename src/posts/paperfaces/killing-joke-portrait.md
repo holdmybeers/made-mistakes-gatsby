@@ -9,7 +9,7 @@ categories: [paperfaces]
 tags: [portrait, illustration, Paper for iOS]
 ---
 
-While browsing through Mix looking for inspiration I came across a drawing shared by [赵 志欣](https://mix.fiftythree.com/122266--) of Heath Ledger from **The Dark Knight**.
+While browsing through Mix looking for inspiration I came across a drawing shared by 赵 志欣 of Heath Ledger from **The Dark Knight**.
 
 I gave it a star to bookmark it for later, and then during the holiday weekend I got around to enhancing it some. I started by reworking the placement and proportions of the face and hand using an image of the Joker from one of the film's posters.
 
@@ -19,5 +19,5 @@ Using a soft and more loose approach, I painted with white to pull out highlight
 
 **Tools used:**
 
-- [Pencil by FiftyThree](https://www.amazon.com/FiftyThree-Digital-Stylus-Pencil-iPhone/dp/B01JJBUYR4/ref=as_li_ss_tl?keywords=pencil+53&qid=1550586265&s=gateway&sr=8-3&linkCode=ll1&tag=mademist-20&linkId=0134793cb840affff60f2e45a7f64678&language=en_US)
+- [Pencil by FiftyThree](https://amzn.to/35tCkJW)
 - [Paper for iOS](https://paper.bywetransfer.com/)

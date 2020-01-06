@@ -5,7 +5,7 @@ path: /mastering-paper/pencil-53-review/
 excerpt: "Impressions of FiftyThree's Pencil stylus from the perspective of an avid Paper creator."
 categories: [mastering-paper]
 tags: [Pencil by 53, Paper for iOS, Apple, review]
-last_modified_at: 2018-11-06T12:04:05-05:00
+last_modified_at: 2020-01-06T10:07:32-05:00
 image: ../../images/pencil-53-feature.jpg
 toc: true
 comments: true
@@ -124,7 +124,7 @@ FiftyThree has made available a [SDK for Pencil](http://www.fiftythree.com/sdk) 
 
 Palm rejection works to eliminate stray marks, but I did notice that it will sometimes rotate the canvas by mistake. Both smudging and erasing worked flawlessly for me.
 
-[^sdk-apps]: The following iOS apps are compatible with Pencil's unique set of features: [Procreate](https://apps.apple.com/us/app/procreate/id425073498?ign-mpt=uo%3D4), [Noteshelf](https://itunes.apple.com/us/app/noteshelf-notes-pdf/id392188745?mt=8&at=1l3v9Qw&ct=sdk-noteshelf), and Squiggle (coming soon).
+[^sdk-apps]: The following iOS apps are compatible with Pencil's unique set of features: [Procreate](https://apps.apple.com/us/app/procreate/id425073498), [Noteshelf](https://apps.apple.com/us/app/noteshelf/id1271086060), and Squiggle (coming soon).
 
 ## Final thoughts on Pencil
 

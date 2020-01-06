@@ -8,7 +8,7 @@ categories: [notes]
 tags: [life, illustration, Paper for iOS, Apple]
 comments: true
 comments_locked: true
-last_modified_at: 2017-12-12T16:27:38-05:00
+last_modified_at: 2020-01-06T10:54:14-05:00
 ---
 
 Today my 365 project titled [**PaperFaces**](/paperfaces/) turns one --- holy smokes! In this past year I've managed to illustrate 476 portraits, make a ton of new *Paper friends*, burned through a few pen styli, and rekindled my passion for drawing. 
@@ -21,9 +21,9 @@ https://twitter.com/mmistakes/status/240601384477659136
 
 - Thank you to everyone who volunteered their face for the project.
 - Thank you to the 91 of you who commissioned portraits.
-- Thank you to everyone who has followed me on [Twitter](https://twitter.com/mmistakes), [Instagram](https://instagram.com/mmistakes), and [Facebook](https://facebook.com/michaelrose).
+- Thank you to everyone who has followed me on [Twitter](https://twitter.com/mmistakes), [Instagram](https://instagram.com/mmistakes), and [Facebook](https://www.facebook.com/michaelrose).
 - Thank you for all the kind @replies, emails, comments, favorites, likes, and encouragement.
-- Thank you [**FiftyThree**](http://www.fiftythree.com/) for developing the app that made all this possible, fostering a [community of creators](http://madewithpaper.fiftythree.com/) who inspire me daily, and for supporting my project by featuring it in posts and tweets.
+- Thank you [**FiftyThree**](https://www.fiftythree.com/) for developing the app that made all this possible, fostering a [community of creators](http://madewithpaper.fiftythree.com/) who inspire me daily, and for supporting my project by featuring it in posts and tweets.
 
 <figure class="three-column">
   <img alt="PaperFaces portrait of a horsehead" src="../../images/paperfaces-studioprisoner-twitter.jpg">

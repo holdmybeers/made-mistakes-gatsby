@@ -16,7 +16,7 @@ One of the first things I drew on my iPad with Paper by FiftyThree was a blind c
 
 ## Drawing contour lines
 
-Working in a loose and gestural manner is an excellent way to warm-up and sharpen your observation skills. I like to draw with the [fountain pen (draw)](/mastering-paper/introduction-tool-guide/#fountain-pen) because it has a greater range than some of the other tools, but feel free to use the [ink pen (write)](/mastering-paper/introduction-tool-guide/#ink-pen) or even the [pencil](/mastering-paper/introduction-tool-guide/}#pencil). I think you'll find this exercise to be very cathartic, especially when compared against the technical and time consuming nature of photo realistic drawing.
+Working in a loose and gestural manner is an excellent way to warm-up and sharpen your observation skills. I like to draw with the [fountain pen (draw)](/mastering-paper/introduction-tool-guide/#fountain-pen) because it has a greater range than some of the other tools, but feel free to use the [ink pen (write)](/mastering-paper/introduction-tool-guide/#ink-pen) or even the [pencil](/mastering-paper/introduction-tool-guide/#pencil). I think you'll find this exercise to be very cathartic, especially when compared against the technical and time consuming nature of photo realistic drawing.
 
 The ideal way to practice this technique is by drawing a *real* object (hands are good to start with) --- avoiding photographs if you can. To begin, fix your eyes on the subject in front of you. As your eyes track across the subject's shape, draw a slow continuous line in sync with what you are viewing. 
 

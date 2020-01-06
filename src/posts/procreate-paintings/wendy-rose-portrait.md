@@ -3,13 +3,13 @@ title: "Tattoos turning to mud"
 date: 2013-09-03
 path: /procreate-paintings/wendy-rose-portrait/
 excerpt: "Portrait of Wendy Rose, digitally painted with Procreate on an iPad."
-last_modified_at: 2015-11-06
+last_modified_at: 2020-01-06T11:00:23-05:00
 image: ../../images/wendy-rose-procreate.jpg
 categories: [procreate-paintings]
 tags: [Procreate, portrait, illustration, time lapse]
 ---
 
-Portrait of Wendy inspired by a portrait I [originally drew in Paper](/paperfaces/veganwendy-portrait/) and [revisited](/paperfaces/veganwendy-2-portrai/) several years later. Digitally painted with Procreate on a 3rd generation iPad. 
+Portrait of Wendy inspired by a portrait I [originally drew in Paper](/paperfaces/veganwendy-portrait/) and [revisited](/paperfaces/veganwendy-2-portrait/) several years later. Digitally painted with Procreate on a 3rd generation iPad. 
 
 This was my first attempt at using [**Procreate**](http://procreate.si/) and decided to give it a try in between working on my [PaperFaces Project](/paperfaces/).
 

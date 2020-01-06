@@ -3,7 +3,7 @@ title: "Mastering Paper for iOS: drawing skies and clouds"
 date: 2013-09-05
 path: /mastering-paper/drawing-clouds/
 excerpt: "Techniques for drawing blue skies, clouds, and pretty sunsets using the iPad app Paper for iOS."
-last_modified_at: 2019-09-12T16:07:07-04:00
+last_modified_at: 2020-01-06T10:23:24-05:00
 image: ../../images/paper-53-skies-guide-feature.jpg
 categories: [mastering-paper]
 tags: [Paper for iOS, tutorial, Apple]
@@ -51,7 +51,7 @@ The technique I use for fluffing in clouds with the brush is very similar to [ho
 
 ![screenshot of fluffed clouds](../../images/paper-53-fluffed-white-clouds.jpg)
 
-With the clouds shaped and looking like clumps of cotton, it's time to add a few wispy cirrus clouds and clean the edges up. Again, a [Pogo Connect Smart Pen](http://www.amazon.com/gp/product/B009K448L4/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B009K448L4&linkCode=as2&tag=mademist-20) comes in handy, allowing you to work lightly and gradually. Finger painters and normal stylus creators fear not, quick strokes can achieve the same results.
+With the clouds shaped and looking like clumps of cotton, it's time to add a few wispy cirrus clouds and clean the edges up. Again, a [Pogo Connect Smart Pen](https://amzn.to/2SXptNO) comes in handy, allowing you to work lightly and gradually. Finger painters and normal stylus creators fear not, quick strokes can achieve the same results.
 
 No need to overdo it with the wisps, just a few light crosshatches is all that's needed. For those longer streaky clouds your pencil strokes should be longer and more horizontal. I usually stick with just a pencil to create these wisp textures, but if you're feeling adventurous a light touch of white watercolor can be used to finish them off.
 

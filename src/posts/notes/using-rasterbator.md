@@ -6,7 +6,7 @@ excerpt: "A quick tutorial and time lapse video of how to assemble a wall sized 
 image: ../../images/owl-rasterbator-feature.jpg
 categories: [notes]
 tags: [tech geek, time lapse]
-last_modified_at: 2017-09-08T09:15:00-04:00
+last_modified_at: 2020-01-06T10:50:28-05:00
 toc: true
 ---
 
@@ -14,7 +14,7 @@ A few weekends ago I decided to cover one of the walls in the office with a larg
 
 ## The process of Rasterbating
 
-Took some quick measurements of the wall's dimensions and uploaded the image to the [Rasterbator](http://arje.net/rasterbator). Got things cropped how I liked and outputted the 120 page PDF file. The next 3 hours I spent trimming the white borders off of each page since my printer doesn't print to the edge. I think next time I do one of these I'm going to leave the borders... cutting these pages consistently was pretty hard. I tried using a trimmer with a rotary blade but the pages slide some regardless of the clamp thing. Oh well.
+Took some quick measurements of the wall's dimensions and uploaded the image to the [Rasterbator](http://posterizer.online/rasterbator/). Got things cropped how I liked and outputted the 120 page PDF file. The next 3 hours I spent trimming the white borders off of each page since my printer doesn't print to the edge. I think next time I do one of these I'm going to leave the borders... cutting these pages consistently was pretty hard. I tried using a trimmer with a rotary blade but the pages slide some regardless of the clamp thing. Oh well.
 
 *[PDF]: Portable Document Format
 

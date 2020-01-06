@@ -1,6 +1,7 @@
 ---
 title: "Corn On Macabre record art ⁠— vellum and metallic ink bliss"
 date: 2011-05-19
+last_modified_at: 2020-01-06T10:52:33-05:00
 path: /notes/record-art-review-corn-on-macabre-7-inch/
 excerpt: "My favorite thing about this Corn On Macabre 7-inch record is the use of vellum and metallic inks in the sleeve."
 image: ../../images/COM-feature.jpg
@@ -20,7 +21,7 @@ If the sleeve art for this *Corn On Macabre* 7-inch was printed on Classic Colum
 
 ## Liner notes and metallic ink
 
-Not sure how much it added to the production cost, but I sure like the way vellum looks and feels. The translucency of the paper looks even better when these photographs are printed on it with a metallic ink. If I remember correctly, I think [Brent Eyestone's](http://www.discogs.com/artist/Brent+Eyestone) earlier band *Waifle* printed on vellum in one of their full length releases.
+Not sure how much it added to the production cost, but I sure like the way vellum looks and feels. The translucency of the paper looks even better when these photographs are printed on it with a metallic ink. If I remember correctly, I think [Brent Eyestone's](https://www.discogs.com/artist/683469-Brent-Eyestone) earlier band *Waifle* printed on vellum in one of their full length releases.
 
 ## Record packaging detail images
 

@@ -84,7 +84,7 @@ Once you're happy with things the next step is to remove all of the white lines.
 
 Tap **Clear Page Color** and watch as the background and rough sketch disappear, leaving behind a pristinely traced image.
 
-[![finished contour drawing of a woman](../../images/paper-53-removed-faux-layer.jpg)](https://mix.fiftythree.com/11098-Michael-Rose/2808345)
+![finished contour drawing of a woman](../../images/paper-53-removed-faux-layer.jpg)
 
 Now you can continue adding to page by drawing and painting on top of what remains. I think you'll find this method is so much faster than having to carefully [erase or Blend away lines](/mastering-paper/erasing/) from an "under-drawing."
 
@@ -100,4 +100,4 @@ I think Ron is onto something and brings up a great use for the faux layer metho
 
 ![grid template](../../images/paper-53-mix-grid-template.jpg)
 
-So with that in mind here's a [grid template](https://mix.fiftythree.com/11098-Michael-Rose/2854744) I shared on Mix. Save it to your Paper journal, remix your own variations for others to build off of, or share what you created with it on Mix or in the comments below.
+So with that in mind here's a grid template I shared on Mix. Save it to your Paper journal, remix your own variations for others to build off of, or share what you created with it on Mix or in the comments below.

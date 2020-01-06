@@ -126,7 +126,7 @@ When I wrote my Mastering Paper guide for [drawing portraits](/mastering-paper/d
 
 [^paper-palette-template]: Thanks to Dayna D. Smith for providing the great "[My Paper Palettes](https://mix.fiftythree.com/200794-Danya-D-Smith/1299445)" template that I remixed.
 
-[![my skin tone palette for drawing portraits](../../images/paper-53-skin-palette.jpg)](https://mix.fiftythree.com/11098-Michael-Rose/1376457)
+![my skin tone palette for drawing portraits](../../images/paper-53-skin-palette.jpg)
 
 ---
 

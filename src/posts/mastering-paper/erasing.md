@@ -2,7 +2,7 @@
 title: "Mastering Paper for iOS: erasing and how to undo"
 date: 2014-10-25
 path: /mastering-paper/erasing/
-last_modified_at: 2019-09-13T08:59:37-04:00
+last_modified_at: 2020-01-06T10:09:50-05:00
 excerpt: "Learn how to use Paper's eraser tool to correct and cover-up mistakes."
 categories: [mastering-paper]
 tags: [Paper for iOS, Pencil by 53, tutorial, Apple]
@@ -12,7 +12,7 @@ comments: true
 comments_locked: true
 ---
 
-One of those tools that is easily forgotten about is the eraser --- the utensils used to make marks tend to get more attention than those that undo them. At first blush, erasing in an app like [Paper by FiftyThree](http://www.fiftythree.com/paper) may appear limiting and simplistic. Paired with [FiftyThree's Pencil stylus](http://www.amazon.com/gp/product/B00JP12300/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00JP12300&linkCode=as2&tag=mademist-20&linkId=X4XZAPOX4S2GLXA2) and a little creativity do the possibilities really begin to fly.
+One of those tools that is easily forgotten about is the eraser --- the utensils used to make marks tend to get more attention than those that undo them. At first blush, erasing in an app like [Paper by FiftyThree](https://paper.bywetransfer.com/) may appear limiting and simplistic. Paired with [FiftyThree's Pencil stylus](https://amzn.to/2FpYrGJ) and a little creativity do the possibilities really begin to fly.
 
 ## Eraser tool 101
 
@@ -20,7 +20,7 @@ Opening Paper's tool tray you will find that the eraser is the first tool on the
 
 ![screenshot of the tool tray in Paper with eraser highlighted](../../images/paper-53-eraser-tool-tray.jpg)
 
-Owners of [**FiftyThree's Pencil**](http://www.amazon.com/gp/product/B00JP12300/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00JP12300&linkCode=as2&tag=mademist-20&linkId=X4XZAPOX4S2GLXA2) have the added benefit of a dedicated eraser on the top of the stylus. Now you can flow between drawing and erasing by simply flipping Pencil around as you would a *real pencil*. Of course you can still select the eraser from the tool try and use Pencil's pointed tip to erase --- but who does that?
+Owners of [**FiftyThree's Pencil**](https://amzn.to/2FpYrGJ) have the added benefit of a dedicated eraser on the top of the stylus. Now you can flow between drawing and erasing by simply flipping Pencil around as you would a *real pencil*. Of course you can still select the eraser from the tool try and use Pencil's pointed tip to erase --- but who does that?
 
 <figure>
   <img alt="detail of Pencil's eraser and replacement" src="../../images/paper-53-eraser-replacement.jpg">

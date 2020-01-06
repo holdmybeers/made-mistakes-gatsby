@@ -3,7 +3,7 @@ title: "Going static: using Jekyll CMS free"
 date: 2012-03-19
 path: /articles/going-static/
 excerpt: "Migrating Made Mistakes from a Wordpress powered website back to its static file roots using Jekyll CMS free."
-last_modified_at: 2017-09-07T20:38:55-04:00
+last_modified_at: 2020-01-06T09:59:14-05:00
 image: ../../images/going-static-feature.jpg
 categories: [articles]
 tags: [Jekyll, web development, design, open source]
@@ -57,7 +57,7 @@ Jekyll made it possible for me to realize the following goals: familiarize mysel
 
 ### HTML5 Boilerplate
 
-One of the most beneficial things I did to familiarize myself with the HTML5 spec was download the [*HTML5 Boilerplate*](http://html5boilerplate.com/) and read through the source code. All of the files are heavily commented and explain what is going on and why. Often with links to the source material to get more context behind a specific technique or approach. When this wasn't enough I'd hit up [*HTML5 Doctor*](http://html5doctor.com/) to learn more about the `header`, `article`, `section`, `nav`, `footer`, `figure` elements.
+One of the most beneficial things I did to familiarize myself with the HTML5 spec was download the [*HTML5 Boilerplate*](http://html5boilerplate.com/) and read through the source code. All of the files are heavily commented and explain what is going on and why. Often with links to the source material to get more context behind a specific technique or approach. When this wasn't enough I'd hit up [*HTML5 Doctor*](https://html5doctor.com/) to learn more about the `header`, `article`, `section`, `nav`, `footer`, `figure` elements.
 
 ### Art directed blog posts are so passé
 

@@ -10,9 +10,9 @@ tags: [portrait, illustration, Paper for iOS, twins]
 
 Last weekend Wendy and me took the girls to the Great Pumpkin Farm for the second time this autumn.
 
-The first visit I took a bunch of photographs with my Canon EOS XTi camera but didn't feel like lugging it around this time. So using a few snaps from my iPhone 5S I combined my favorites into a new composition and drew it in [Paper for iPad](https://www.fiftythree.com/paper).
+The first visit I took a bunch of photographs with my Canon EOS XTi camera but didn't feel like lugging it around this time. So using a few snaps from my iPhone 5S I combined my favorites into a new composition and drew it in [Paper for iPad](https://paper.bywetransfer.com/).
 
-I'm really enjoying [sharing my creations on Mix](/mastering-paper/mix-with-me/) and have been trying to include them at [various stages of completeness](https://mix.fiftythree.com/11098-Michael-Rose/418184).
+I'm really enjoying [sharing my creations on Mix](/mastering-paper/mix-with-me/) and have been trying to include them at various stages of completeness.
 
 ![Work in process screenshot](../../images/paperfaces-rosebuds-pumpkins-process-1-lg.jpg)
 
@@ -28,5 +28,5 @@ The best part is seeing what others do with them when remixed. I know some other
 
 **Tools used:**
 
-- [Pencil by FiftyThree](https://www.amazon.com/FiftyThree-Digital-Stylus-Pencil-iPhone/dp/B01JJBUYR4/ref=as_li_ss_tl?keywords=pencil+53&qid=1550586265&s=gateway&sr=8-3&linkCode=ll1&tag=mademist-20&linkId=0134793cb840affff60f2e45a7f64678&language=en_US)
+- [Pencil by FiftyThree](https://amzn.to/35tCkJW)
 - [Paper for iOS](https://paper.bywetransfer.com/)

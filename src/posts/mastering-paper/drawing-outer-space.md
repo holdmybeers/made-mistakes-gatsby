@@ -2,7 +2,7 @@
 title: "Mastering Paper for iOS: drawing outer space"
 date: 2015-01-02
 path: /mastering-paper/drawing-outer-space/
-last_modified_at: 2019-09-12T16:06:47-04:00
+last_modified_at: 2020-01-06T10:25:05-05:00
 excerpt: "Learn how to draw outer space scenes filled with stars, galaxies, planets, black holes and more with Paper for iOS and a Pencil stylus."
 categories: [mastering-paper]
 tags: [Paper for iOS, tutorial, Pencil by 53, Apple]
@@ -89,7 +89,7 @@ Now begins the tedious process of placing stars one by one. I like to start with
 
 ![Mixing a medium-dark blue color to paint stars with](../../images/paper-53-space-blue-stars.jpg)
 
-Try to use your fingertip with a controlled tapping motion. If you strike the screen and drag your finger at all, a small streak will appear instead of a dot. If this happens use the [Rewind gesture to undo](https://support.fiftythree.com/hc/en-us/articles/203385492-Drawing-Tools#rewind) any mistakes.
+Try to use your fingertip with a controlled tapping motion. If you strike the screen and drag your finger at all, a small streak will appear instead of a dot. If this happens use the [Rewind gesture to undo](https://wetransfer.zendesk.com/hc/en-us/articles/360001333846-Canvas-Drawing-Tools#rewind) any mistakes.
 
 ![using a fingertip to create stars](../../images/paper-53-space-blue-stars-finger.jpg)
 

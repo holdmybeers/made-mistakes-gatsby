@@ -1,13 +1,13 @@
 ---
 title: "HPSTR"
 date: 2013-08-26
+last_modified_at: 2020-01-06T10:03:33-05:00
 path: /work/hpstr-jekyll-theme/
 excerpt: "Jekyll blog theme designed to give your site a modern look."
 image: ../../images/hpstr-preview-feature-2015.jpg
 categories: [work]
 tags: [Jekyll, web development, design, open source, GitHub]
 work: "Design & Development"
-last_modified_at: 2018-02-06T11:15:46-05:00
 breadcrumbs:
   - label: "Work"
     url: /work/
@@ -29,13 +29,13 @@ They say three times the charm, so here is another free Jekyll blog theme for yo
 * Modern and minimal design with a focus on clean typography.
 * Support for large images to call out your favorite posts.
 * Optional [Disqus](http://disqus.com) comments.
-* Support for [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards).
+* Support for [Open Graph](https://developers.facebook.com/docs/opengraph/) and Twitter Cards.
 * Simple custom 404 page to get you started.
 * Support for Pygments and Coderay syntax highlighting to make your code examples look snazzy.
 * Grunt and Rake tasks for easier site development.
 
 <div class="browser-frame">
-  <a href="https://mmistakes.github.io/hpstr-jekyll-theme/" title="View demo of HPSTR">
+  <a href="https://mmistakes.github.io/jekyll-theme-hpstr/" title="View demo of HPSTR">
     <img src="../../images/hpstr-jekyll-theme-preview.jpg" alt="HPSTR Jekyll theme screenshot">
   </a>
 </div>
@@ -77,7 +77,7 @@ Instead of using bulky JavaScript widgets provided by Facebook, Twitter, and Goo
 
 ## Questions?
 
-Having a problem getting something to work or want to know why I setup something in a certain way? [File a GitHub issue](https://github.com/mmistakes/jekyll-theme-hpstr/issues/new).
+Having a problem getting something to work or want to know why I setup something in a certain way? [File a GitHub issue](https://github.com/mmistakes/jekyll-theme-hpstr/issues).
 
 ## License
 

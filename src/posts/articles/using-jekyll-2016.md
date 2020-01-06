@@ -8,7 +8,7 @@ tags: [Jekyll, web development, GitHub, open source, tutorial]
 image: ../../images/using-jekyll-2016-feature.jpg
 comments: true
 comments_locked: true
-last_modified_at: 2017-10-24T09:32:34-04:00
+last_modified_at: 2020-01-06T09:56:17-05:00
 toc: true
 ---
 
@@ -715,7 +715,7 @@ Which will produce the following HTML:
 
 #### Author overrides
 
-**Made Mistakes** has always had a singular voice, so supporting multiple authors wasn't really on my radar. But for some of [my Jekyll themes]({% link _work/jekyll-themes.md %}) the need arose and I added support for assigning authors with a data file. 
+**Made Mistakes** has always had a singular voice, so supporting multiple authors wasn't really on my radar. But for some of [my Jekyll themes](/work/jekyll-themes/) the need arose and I added support for assigning authors with a data file. 
 
 To achieve this. a YAML file in created in the `_data` directory with all of the authors.
 

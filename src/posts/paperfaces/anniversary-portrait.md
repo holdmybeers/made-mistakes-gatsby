@@ -8,7 +8,7 @@ categories: [paperfaces]
 tags: [portrait, illustration, Paper for iOS, black and white, self portrait, beard]
 ---
 
-Nothing says romance like drawing a faceless portrait of your wife on your wedding day. Happy Anniversary [Wendy](https://2littlerosebuds.com) --- and as your friend [Toodee](http://uncyclopedia.wikia.com/wiki/Yo_Gabba_Gabba!) would say, "Keep on Jumping."
+Nothing says romance like drawing a faceless portrait of your wife on your wedding day. Happy Anniversary [Wendy](https://2littlerosebuds.com) --- and as your friend [Toodee](https://yogabbagabba.fandom.com/wiki/Toodee) would say, "Keep on Jumping."
 
 **Tools used:**
 

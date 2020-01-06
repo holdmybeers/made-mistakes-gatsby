@@ -2,7 +2,7 @@
 title: "Paper 2.0.0 bugs and other strange behaviors"
 path: /mastering-paper/paper-2-0/
 date: 2014-09-28T14:59:29-04:00
-last_modified_at: 2019-09-13T11:51:42-04:00
+last_modified_at: 2020-01-06T10:36:27-05:00
 excerpt: "Documented bugs and other strange behaviors found in Paper for iOS version 2.0.0 when using Pencil."
 categories: [mastering-paper]
 tags: [Paper for iOS, Pencil by 53, Pogo Connect, Apple]
@@ -12,7 +12,7 @@ comments: true
 comments_locked: true
 ---
 
-With **FiftyThree's Paper** hitting 2.0 and Apple's iOS 8 system update dropping recently we've seen some noticeable [improvements in the software](/mastering-paper/watercolor-brush-update/) along with brand new features like [Mix]({/mastering-paper/mix-with-me/) and **Surface Pressure**.
+With **FiftyThree's Paper** hitting 2.0 and Apple's iOS 8 system update dropping recently we've seen some noticeable [improvements in the software](/mastering-paper/watercolor-brush-update/) along with brand new features like [Mix](/mastering-paper/mix-with-me/) and **Surface Pressure**.
 
 With such a substantial upgrade to both Paper and iOS, a few bugs were bound to slip through. My goal with this post is to document these "bugs" and what conditions they occur under.
 

@@ -12,7 +12,7 @@ comments: true
 comments_locked: true
 ---
 
-I've been lusting over the promise of pressure sensitive drawing on an iPad ever since I first read about the [Pogo Connect Smart Pen]( https://amzn.to/2ZUufAi)[^pogo-compatibility]. Released back in January for around $80, I held off buying one until the price dropped. Waiting turned out to be smart since my favorite iOS app [**Paper by FiftyThree**](/tag/paper-by-53)[^pogo-paper] also received updates to better support the Pogo Connect.
+I've been lusting over the promise of pressure sensitive drawing on an iPad ever since I first read about the [Pogo Connect Smart Pen]( https://amzn.to/2ZUufAi)[^pogo-compatibility]. Released back in January for around $80, I held off buying one until the price dropped. Waiting turned out to be smart since my favorite iOS app [**Paper by FiftyThree**](/tag/paper-for-ios/)[^pogo-paper] also received updates to better support the Pogo Connect.
 
 [^pogo-paper]: As of version 2.5 FiftyThree has dropped support for the Pogo Connect Smart Pen.
 

@@ -1,6 +1,7 @@
 ---
 title: "Using your imagination to see a smile"
 date: 2013-06-19
+last_modified_at: 2020-01-06T10:58:46-05:00
 path: /paperfaces/dismanntled-portrait/
 excerpt: "PaperFaces portrait of @dismanntled drawn with Paper for iOS on an iPad."
 image: ../../images/paperfaces-dismanntled-twitter.jpg
@@ -10,7 +11,7 @@ tags: [portrait, illustration, Paper for iOS]
 
 PaperFaces portrait of [@dismanntled](https://twitter.com/dismanntled).
 
-![In process screenshot](../../images/paperfaces-dismanntled-process-1-600.jpg)
+![In process screenshot](../../images/paperfaces-dismanntled-process-1-lg.jpg)
 
 **Tools used:**
 

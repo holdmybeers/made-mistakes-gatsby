@@ -2,7 +2,7 @@
 title: "Building a style guide with Jekyll"
 date: 2015-02-10
 path: /articles/jekyll-style-guide/
-last_modified_at: 2019-12-23T12:32:17-05:00
+last_modified_at: 2020-01-06T09:58:25-05:00
 excerpt: "How I used collections with Jekyll to build a style guide and pattern library for Made Mistakes."
 categories: [articles]
 tags: [Jekyll, open source, web development, GitHub, tutorial]
@@ -209,7 +209,7 @@ There were also cases where I needed to add styles specific for the style guide 
 
 My goal here was to avoid hard coding color values into each document, and instead leverage the color variables already set in `/assets/stylesheets/_variables.scss` to keep things [DRY](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself).
 
-To achieve this I used a [SassScript map](https://github.com/sass/sass/blob/master/doc-src/SASS_CHANGELOG.md#sassscript-maps) of all the color variables found on the site along with some CSS to build the swatch tiles. 
+To achieve this I used a [SassScript map](https://www.rubydoc.info/gems/sass/Sass/Script/Value/Map.html) of all the color variables found on the site along with some CSS to build the swatch tiles. 
 
 ```scss
 /*
