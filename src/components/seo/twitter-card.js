@@ -23,6 +23,6 @@ TwitterCard.propTypes = {
 }
 
 TwitterCard.defaultProps = {
-  type: 'summary_large_image',
+  type: 'summary',
   username: null,
 }

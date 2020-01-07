@@ -25,6 +25,7 @@ const PageTemplate = ({ data }) => {
     html,
   } = data.markdownRemark
   const metaImage = image ? image.childImageSharp.fixed : site.image
+  const twitterCardType = image ? 'summary_large_image' : 'summary'
 
   return (
     <Layout>
@@ -35,6 +36,7 @@ const PageTemplate = ({ data }) => {
         dateModified={last_modified_at}
         description={excerpt || autoExcerpt}
         metaImage={metaImage}
+        twitterCardType={twitterCardType}
         article
       />
       <main id="main">

@@ -9,6 +9,7 @@ const SEO = ({
   title,
   description,
   metaImage,
+  twitterCardType,
   path,
   article,
   datePublished,
@@ -151,6 +152,7 @@ const SEO = ({
         name={facebook}
       />
       <TwitterCard
+        type={twitterCardType}
         title={seo.title}
         image={seo.image}
         description={seo.description}

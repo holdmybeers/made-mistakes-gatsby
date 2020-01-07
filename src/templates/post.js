@@ -39,6 +39,7 @@ const PostTemplate = ({ data, pageContext }) => {
   const { comments } = data
   const { next, previous } = pageContext
   const metaImage = image ? image.childImageSharp.fixed : site.image
+  const twitterCardType = image ? 'summary_large_image' : 'summary'
   const previousPath = previous && previous.frontmatter.path
   const previousLabel = previous && previous.frontmatter.title
   const nextPath = next && next.frontmatter.path
@@ -53,6 +54,7 @@ const PostTemplate = ({ data, pageContext }) => {
         dateModified={last_modified_at}
         description={excerpt || autoExcerpt}
         metaImage={metaImage}
+        twitterCardType={twitterCardType}
         article
       />
       <main id="main">
