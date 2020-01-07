@@ -411,7 +411,7 @@ module.exports = {
         background_color: site.backgroundColor,
         theme_color: site.themeColor,
         display: 'standalone',
-        icon: site.favicon,
+        icon: `src${site.favicon}`,
       },
     },
   ],
