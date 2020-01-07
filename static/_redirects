@@ -100,6 +100,7 @@ http://next-mademistakes.netlify.com/* https://mademistakes.com/:splat 301!
 
 /atom /atom.xml 301
 /rss /atom.xml 301
+/feed /atom.xml 301
 /feed.xml /atom.xml 301
 /everything.xml /atom.xml 301
 /articles-feed.xml /articles.xml 301
