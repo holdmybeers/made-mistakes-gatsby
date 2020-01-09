@@ -56,7 +56,26 @@ with [Gatsby](https://www.gatsbyjs.org/), [Travis CI](https://travis-ci.org/),  
 Commenting is disabled by default. To enable add `comments: true` to the YAML 
 Front Matter. To lock a comment thread add `comments_locked: true`.
 
-### TODO Taxonomy Data File
+### Taxonomy Data File
+
+`src/data/taxonomy.yml` file contains key/value pairs for all categories and tags used across the site. This file is useful for adding custom content to be used on category and tag pages.
+
+|           | Type   | Description                                   |
+| --------- | ------ | --------------------------------------------- |
+| `id`      | string | Value used in `tags` and `categories` arrays. |
+| `name`    | string | Display name.                                 |
+| `excerpt` | string | Plain text description.                       |
+| `html`    | string | HTML description.                             |
+
+**Example:**
+
+```yaml
+- id: work
+  name: Works
+  excerpt: A selection of things I’ve designed, illustrated, and developed.
+  html: |
+    <p>A selection of things I’ve designed, illustrated, and developed.</p>
+```
 
 ### Markdown content
 
@@ -154,7 +173,7 @@ Style links to look like a button.
 
 The MIT License (MIT)
 
-Copyright (c) 2004-2019 Michael Rose
+Copyright (c) 2004-2020 Michael Rose
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
