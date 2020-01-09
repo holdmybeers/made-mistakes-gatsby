@@ -17,7 +17,7 @@ with [Gatsby](https://www.gatsbyjs.org/), [Travis CI](https://travis-ci.org/),  
    GITHUB_API_TOKEN=yourPersonalGitHubApiToken
    ```
 
-   **Note:** do not commit this file. Builds will fail without it as it is needed for the GitHub repo listing on `/pages/works.js`.
+   **Note:** do not commit this file. Builds will fail with a `TypeError: Cannot read property 'match' of undefined` since GitHub repo listing on `/pages/works.js` can't resolve the GraphQL query.
 
 3. **Start developing.**
    
