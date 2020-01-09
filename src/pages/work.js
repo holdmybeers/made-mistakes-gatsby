@@ -69,14 +69,16 @@ const WorksPage = ({ data }) => {
             />{' '}
             Open source contributions
           </h2>
-          <div>
-            {github.viewer.repositories.nodes
-              .map(repo => <Repository key={repo.name} repo={repo} />)
-              .reverse()}
-            <a href="https://github.com/mmistakes" className="btn">
-              See more on GitHub
-            </a>
-          </div>
+          {github && (
+            <div>
+              {github.viewer.repositories.nodes
+                .map(repo => <Repository key={repo.name} repo={repo} />)
+                .reverse()}
+              <a href="https://github.com/mmistakes" className="btn">
+                See more on GitHub
+              </a>
+            </div>
+          )}
         </div>
       </main>
     </Layout>
@@ -120,10 +122,7 @@ export const pageQuery = graphql`
             categories
             image {
               childImageSharp {
-                fluid(
-                  maxWidth: 400
-                  quality: 75
-                ) {
+                fluid(maxWidth: 400, quality: 75) {
                   ...GatsbyImageSharpFluid_noBase64
                 }
               }
