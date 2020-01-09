@@ -51,21 +51,48 @@ with [Gatsby](https://www.gatsbyjs.org/), [Travis CI](https://travis-ci.org/),  
    └── staticman.yml
    ```
 
-### TODO Posts and Pages
+### Posts and Pages
 
-Commenting is disabled by default. To enable add `comments: true` to the YAML 
-Front Matter. To lock a comment thread add `comments_locked: true`.
+Posts are all Markdown files and should be placed in `src/posts/` and filed under the appropriate category. Pages can be Markdown or `.js` files placed in `src/pages/`.
+
+```bash
+.
+├── src
+|   ├── posts
+|   |   ├── category-name-1
+|   |   |   └── filename-slug.md
+|   |   ├── category-name-2
+|   |   |   └── another-filename-slug.md
+```
+
+Front matter available for Markdown files.
+
+|                  | Type     | Description | Example |
+| ---------------- | -------- | ----------- | ------- |
+| title            | string   | Page title. | `"How I use Jekyll to build sites"` |
+| path             | string   | Page permalink. | `/category-name/file-name-slug/` |
+| date             | datetime | Published date. | `2020-01-09` |
+| last_modified_at | datetime | Updated date. | `2020-01-09T13:52:13-05:00` |
+| excerpt          | string   | Page description used a teaser text in listings and SEO purposes. | `"This is a most excellent post about static site generators."` |
+| image            | string   | Path to an image (relative to the Markdown file) used as a cover or teaser in listings and SEO purposes. | `../../images/post-image.jpg` |
+| categories       | array    | Categories to classify the post as. | `[articles]` |
+| tags             | array    | Tags to classify the post as. | `[web development, GitHub, tutorial]` |
+| toc              | boolean  | Display table of contents links. | `true` |
+| hide_meta        | boolean  | Hide post meta data from page e.g. (date, read time, etc.) | `true` |
+| comments         | boolean  | Display comments. Disabled by default. | `true` |
+| comments_locked  | boolean  | Lock a comment threads discussion. | `true` |
+| featured         | boolean  | Mark a post post/page as featured. | `true` |
 
 ### Taxonomy Data File
 
 `src/data/taxonomy.yml` file contains key/value pairs for all categories and tags used across the site. This file is useful for adding custom content to be used on category and tag pages.
 
-|           | Type   | Description                                   |
-| --------- | ------ | --------------------------------------------- |
-| `id`      | string | Value used in `tags` and `categories` arrays. |
-| `name`    | string | Display name.                                 |
-| `excerpt` | string | Plain text description.                       |
-| `html`    | string | HTML description.                             |
+|         | Type   | Description                                   |
+| ------- | ------ | --------------------------------------------- |
+| id      | string | Value used in `tags` and `categories` arrays. |
+| name    | string | Display name.                                 |
+| excerpt | string | Plain text description.                       |
+| html    | string | HTML description.                             |
 
 **Example:**
 
