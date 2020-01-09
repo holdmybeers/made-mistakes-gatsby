@@ -85,6 +85,7 @@ http://next-mademistakes.netlify.com/* https://mademistakes.com/:splat 301!
 /til/ /tag/til/ 301
 /til/* /notes/:splat 301
 /lifestream/* /notes/ 301
+/faqs/website-tools/ /uses/ 301
 
 # ----------------------------------------------------------------------
 # Sitemap redirects
