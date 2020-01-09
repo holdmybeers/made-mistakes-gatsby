@@ -15,7 +15,8 @@ const HomePage = ({ data }) => {
     site: {
       siteMetadata: { author: siteAuthor },
     },
-    allMarkdownRemark: { edges: posts },
+    featuredPosts: { edges: featuredPosts },
+    recentPosts: { edges: recentPosts },
   } = data
   return (
     <Layout>
@@ -50,7 +51,7 @@ const HomePage = ({ data }) => {
         <div className={style.content}>
           <h2 className={style.subHeading}>Featured articles</h2>
           <div className={style.gridList}>
-            {posts.map(({ node }) => {
+            {featuredPosts.map(({ node }) => {
               const {
                 id,
                 excerpt: autoExcerpt,
@@ -61,8 +62,8 @@ const HomePage = ({ data }) => {
                   date_pretty,
                   path,
                   author,
-                  image,
                   excerpt,
+                  image,
                 },
               } = node
 
@@ -76,6 +77,29 @@ const HomePage = ({ data }) => {
                   author={author || siteAuthor}
                   timeToRead={timeToRead}
                   image={image}
+                  excerpt={excerpt || autoExcerpt}
+                />
+              )
+            })}
+          </div>
+          <h2 className={style.subHeading}>Recent posts</h2>
+          <div className={style.list}>
+            {recentPosts.map(({ node }) => {
+              const {
+                id,
+                excerpt: autoExcerpt,
+                timeToRead,
+                frontmatter: { title, date, date_pretty, path, excerpt },
+              } = node
+
+              return (
+                <Entry
+                  key={id}
+                  title={title}
+                  date={date}
+                  datePretty={date_pretty}
+                  path={path}
+                  timeToRead={timeToRead}
                   excerpt={excerpt || autoExcerpt}
                 />
               )
@@ -173,7 +197,7 @@ export const pageQuery = graphql`
         }
       }
     }
-    allMarkdownRemark(
+    featuredPosts: allMarkdownRemark(
       filter: {
         fileAbsolutePath: { regex: "/posts/" }
         fields: { sourceName: { ne: "comments" } }
@@ -196,7 +220,6 @@ export const pageQuery = graphql`
             date
             date_pretty: date(formatString: "MMMM Do, YYYY")
             path
-            author
             excerpt
             featured
             categories
@@ -207,6 +230,34 @@ export const pageQuery = graphql`
                 }
               }
             }
+          }
+        }
+      }
+    }
+    recentPosts: allMarkdownRemark(
+      filter: {
+        fileAbsolutePath: { regex: "/posts/" }
+        fields: { sourceName: { ne: "comments" } }
+        frontmatter: {
+          featured: { ne: true }
+          published: { ne: false }
+          output: { ne: false }
+        }
+      }
+      sort: { fields: [frontmatter___date], order: DESC }
+      limit: 5
+    ) {
+      edges {
+        node {
+          id
+          excerpt(format: HTML)
+          timeToRead
+          frontmatter {
+            title
+            date
+            date_pretty: date(formatString: "MMMM Do, YYYY")
+            path
+            excerpt
           }
         }
       }
