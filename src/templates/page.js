@@ -19,6 +19,7 @@ const PageTemplate = ({ data }) => {
       path,
       image,
       excerpt,
+      toc,
     },
     excerpt: autoExcerpt,
     id,
@@ -51,6 +52,7 @@ const PageTemplate = ({ data }) => {
           dateModifiedFromNow={last_modified_at_from_now}
           path={path}
           image={image}
+          toc={toc}
           html={html}
           author={site.author}
         />
@@ -77,6 +79,7 @@ export const pageQuery = graphql`
         last_modified_at_from_now: last_modified_at(fromNow: true)
         path
         excerpt
+        toc
         image {
           childImageSharp {
             fluid(maxWidth: 1100, quality: 75) {
